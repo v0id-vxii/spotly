@@ -1,0 +1,44 @@
+[
+  {
+    "id": "perk-hearth-crumb",
+    "businessName": "Hearth & Crumb Artisan Bakehouse",
+    "category": "cafe",
+    "neighborhood": "Local Partner Network",
+    "perkHeadline": "15% off morning pastry & pour-over",
+    "description": "Present this Spotly member code before 11:00 AM daily for 15% off any warm croissant or single-origin latte.",
+    "promoCode": "SPOTLY15AM",
+    "validUntil": "Dec 31, 2026",
+    "tier": "Featured Perk Plus",
+    "imageUrl": "/src/assets/images/perk_artisan_bakery_1794823823533.jpg",
+    "isFeatured": true,
+    "createdAt": "2026-11-01T09:00:00.000Z"
+  },
+  {
+    "id": "perk-olive-branch",
+    "businessName": "Olive & Ember Neighborhood Bistro",
+    "category": "restaurant",
+    "neighborhood": "Local Partner Network",
+    "perkHeadline": "Complimentary seasonal starter with dinner",
+    "description": "Enjoy a chef-selected roasted mezze plate on the house when ordering two main dishes for dine-in.",
+    "promoCode": "EMBERMEZZE",
+    "validUntil": "Dec 31, 2026",
+    "tier": "Featured Perk Plus",
+    "imageUrl": "/src/assets/images/perk_bistro_table_1794823822521.jpg",
+    "isFeatured": true,
+    "createdAt": "2026-11-02T12:00:00.000Z"
+  },
+  {
+    "id": "perk-birch-pantry",
+    "businessName": "Birch & Co. Specialty Pantry",
+    "category": "grocery",
+    "neighborhood": "Local Partner Network",
+    "perkHeadline": "$5 off your first $30 pantry basket",
+    "description": "Save $5 on fresh local produce, cold-pressed olive oils, and small-batch pantry staples in store.",
+    "promoCode": "BIRCH5LOCAL",
+    "validUntil": "Dec 31, 2026",
+    "tier": "Neighborhood Spotlight",
+    "imageUrl": "/src/assets/images/perk_boutique_market_1794823823585.jpg",
+    "isFeatured": false,
+    "createdAt": "2026-11-03T14:00:00.000Z"
+  }
+]

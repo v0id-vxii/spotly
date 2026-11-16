@@ -1,0 +1,10 @@
+{
+  "name": "Spotly",
+  "description": "Effortless local store and restaurant discovery with personalized recommendations, interactive maps, and featured neighborhood perks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
